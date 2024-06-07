@@ -425,8 +425,8 @@ print("Minimum value of the function:", objective_function(*minimum_point))
 
 
 #2) Write a simple Python code to generate random values and then compute
-their sigmoid and tanh (hyperbolic tangent) values using NumPy. Plot the
-values.
+#their sigmoid and tanh (hyperbolic tangent) values using NumPy. Plot the
+#values.
 
 import numpy as np
 import matplotlib.pyplot as plt
